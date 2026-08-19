@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "mi-primera-plantilla-web",
+  "name": "ferrehogar",
   "compatibility_date": "2026-08-16",
   "assets": {
     "directory": "."
