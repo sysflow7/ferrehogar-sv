@@ -9,7 +9,7 @@
 
 const negocio = {
 
-    nombre: "Ferretería El Constructor",
+    nombre: "FerreHogar SV",
 
     slogan: "Todo para construir tus proyectos",
 
